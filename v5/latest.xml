@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <versioninfo>
-	<version buildstring="5.1.2.1.bk_release.210120-1208" version="5.1.2.1" minau="5.0.0.0"/>
+	<version buildstring="5.1.2.2.bk_release.210120-1208" version="5.1.2.2" minau="5.0.0.0"/>
 	<branding title="Yi's solution" copyright="FengYi, Inc. https://fengyi.tel"/>
 	<changelog title="Yi's solution - new autoupdate system">   - Latest *Update
 	</changelog>
