@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<versioninfo>
-	<version buildstring="6.0.0.0.bs_release.210120-1208" version="6.0.0.0" minau="6.0.0.0"/>
-	<branding title="Yi's Solution" copyright="FengYi, Inc. https://fengyi.tel"/>
-	<changelog title="Yi's Solution - new autoupdate system">   - Latest *Update
-	</changelog>
-	<download url="https://github.com/ilikeyi/bsUpdate/raw/main/v6/latest.zip"/>
-</versioninfo>
